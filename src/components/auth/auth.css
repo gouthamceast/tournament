@@ -1,0 +1,14 @@
+html,
+body,
+
+.app{
+  height: 100vh;
+  background-image: url('../../assets/PUBG_3c.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 1em;
+}
+.icon{
+  text-align: right; 
+}
